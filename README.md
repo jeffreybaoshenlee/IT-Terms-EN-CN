@@ -20,7 +20,7 @@ IT術語中英文對照表
 授權方式
 ========
 
-本項目所有內容均以Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)協議授權，具體文本錄於 [link]http://creativecommons.org/licenses/by-nc-nd/4.0/
+本項目所有內容均以Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)協議授權，具體文本錄於 http://creativecommons.org/licenses/by-nc-nd/4.0/
 
 
 貢獻方式
@@ -34,9 +34,9 @@ IT術語中英文對照表
 
 jeffreybaoshenlee:
 
-*網名　愛飛翔
-*職業　全職書生
-*研究方向　代碼質量、代碼閱讀、代碼評審
-*電子郵箱　eastarstormlee@gmail.com
-*個人網站　[link]http://www.agilemobiledev.com/
-*簡歷　曾翻譯《NoSQL精粹》、《算法心得》（《Hacker's Delight》第2版）、《Effective Objective-C 2.0》、《Android遊戲開發實踐指南》、《HTML5 Canvas核心技術》等書
+* 網名　愛飛翔
+* 職業　全職書生
+* 研究方向　代碼質量、代碼閱讀、代碼評審
+* 電子郵箱　eastarstormlee@gmail.com
+* 個人網站　http://www.agilemobiledev.com/
+* 簡歷　曾翻譯《NoSQL精粹》、《算法心得》（《Hacker's Delight》第2版）、《Effective Objective-C 2.0》、《Android遊戲開發實踐指南》、《HTML5 Canvas核心技術》等書
