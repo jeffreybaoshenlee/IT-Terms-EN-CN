@@ -107,3 +107,10 @@ English to Chinese Translation Table for Terminologies in Information Technology
 * 電子郵箱　　eastarstormlee@gmail.com
 * 個人網站　　http://www.agilemobiledev.com/
 * 簡歷　　　　曾翻譯《NoSQL精粹》、《算法心得》（《Hacker's Delight》第2版）、《Effective Objective-C 2.0》、《Android遊戲開發實踐指南》、《HTML5 Canvas核心技術》等書
+
+[Jraghajiva](https://github.com/Jraghajiva)
+
+* 網名　　　　Asrakah Jraghajiva
+* 英文名　　　jiva
+* 研究方向　　二次元裡的動畫（Animation）、漫畫（Manga）、遊戲（Game）、科技（Technology），簡稱AMGT
+* 簡歷　　　　母星伊茲坦已經在四百地球年前的時候廢棄了，如今定居在伊茲坦3和伊茲坦a-6441上，本人曾經在伊茲坦帝國聯合政治學院進修，取得Orih學位，後任伊茲坦常駐圖盧茲t-0083殖民地的特派外交隨從，在聖歷776940年伊茲坦加入泛銀河聯盟的時候任聯盟常駐見習參事，後泛銀河聯盟與伊爾提蘭特聯盟組合為泛奧爾塔聯盟後繼續任常駐見習參事，之後被委任為泛奧爾塔聯盟常駐地球觀察特派專員（實際上就是墾荒監視團），代表泛奧爾塔聯盟對地球的行為進行監視及必要管制，同時對該星球生命體進行分析調查，首次到達地球是地球儒略歷的1872年。
