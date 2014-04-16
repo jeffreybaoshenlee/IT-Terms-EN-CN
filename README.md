@@ -2,14 +2,13 @@ IT-Term-Ref-Table
 =================
 
 English to Chinese Translation Table for IT Terminologies
-IT術語中英文對照表
 
+IT術語中英文對照表
 
 項目宗旨
 =========
 
 給出IT界英文術語的各種中文譯法，討論其優劣，並提出本社區推薦的譯法。
-
 
 術語範圍
 ========
@@ -18,14 +17,12 @@ IT術語中英文對照表
 
 過長的通用句式，例如：「..., but otherwise something would be ignored」暫不考慮。
 
-
 適用範圍
 ========
 
-正式出版物（包含原創與譯作）、面向大衆的通識文章（包含新聞稿、大衆博文等）。
+建議在正式出版物（包含原創與譯作）及面向大衆的通識文章（包含新聞稿、大衆博文等）中使用。
 
 口頭交流及過於專業的技術文檔不在本項目討論範圍內。
-
 
 考評標準
 ========
@@ -39,7 +36,7 @@ IT術語中英文對照表
 5. **對應性**(correspondence)。譯文語法結構應和原文儘量相似，不宜隨便增減字詞。例如「retain cycle」是偏正式名詞短語，中心詞是「cycle」，而現存中文譯法「循環引用」的中心詞卻是「引用」，原文的「retain」（保留）不見了，多出來了「引用」二字。
 6. **對等性**（parity）。兩個相似但有微妙區別的英文術語，應分別有對等的中文術語。例如「circular reference」與「循環引用」對等，而「retain cycle」則與「保留環」對等。不宜「拉郎配」，也就是說，不宜將「retain cycle」與「保留環」視為對等。
 
-註：對各原則所舉的例子由@jeffreybaoshenlee撰寫，不代表其他人的意見。
+註：對各原則所舉的例子由jeffreybaoshenlee撰寫，不代表其他人的意見。
 
 
 授權方式
@@ -47,12 +44,10 @@ IT術語中英文對照表
 
 本項目所有內容均以Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)協議授權，具體文本錄於 http://creativecommons.org/licenses/by-nc-nd/4.0/
 
-
 貢獻方式
 ========
 
 請通過Issue來提交英文術語的譯法，或表達自己對現存譯法之意見。
-
 
 管理人員簡介
 ============
