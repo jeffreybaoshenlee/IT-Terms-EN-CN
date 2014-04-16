@@ -17,7 +17,7 @@ English to Chinese Translation Table for Terminologies in Information Technology
 
 過長的通用句式，例如：「..., but otherwise something would be ignored」暫不考慮。
 
-適用範圍
+適用場合
 ========
 
 建議在**正式出版物**（包含原創與譯作）及**面向大衆的通識文章**（包含新聞稿、大衆博文等）中使用。
@@ -94,7 +94,7 @@ English to Chinese Translation Table for Terminologies in Information Technology
 管理人員簡介
 ============
 
-社區共用名：ITEC　（該詞是項目名稱**I**T-**T**erms-**E**N-**C**N的縮寫）
+社區成員集體創作共用名：ITEC　（該詞是項目名稱IT-Terms-EN-CN的縮寫）
 
 成員介紹
 
