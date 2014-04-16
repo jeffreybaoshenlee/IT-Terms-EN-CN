@@ -1,9 +1,9 @@
 IT-Terms-EN-CN
 =============
 
-English to Chinese Translation Table for Terminologies in Information Technology (IT) and Computer Science
+English to Chinese Translation Table for Terminologies in Information Technology (IT) and Computer Science (CS)
 
-計算機術語及IT術語中英文對照表
+IT術語及計算機科學術語中英文對照表
 
 項目宗旨
 =========
