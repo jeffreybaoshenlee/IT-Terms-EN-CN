@@ -10,6 +10,8 @@ English to Chinese Translation Table for Terminologies in Information Technology
 
 給出IT界英文術語的各種中文譯法，討論其優劣，並提出本社區推薦的譯法。
 
+尊重**「習慣」**，但**決不「惟習慣論」**；**秉持學術立場**，敢於提出獨到見解，既**不避俗**，更**不媚俗**。
+
 術語範圍
 ========
 
@@ -22,12 +24,10 @@ English to Chinese Translation Table for Terminologies in Information Technology
 
 建議在**正式出版物**（包含原創與譯作）及**面向大衆的通識文章**（包含新聞稿、大衆博文等）中使用。
 
-口頭交流及過於專業的技術文檔不在本項目討論範圍內。
+口頭交流及過於專業的技術文檔暫且不在本項目討論範圍內。
 
 考評標準
 ========
-
-總則：尊重**「習慣」**，但**決不「惟習慣論」**。**秉持學術立場**，敢於提出獨到見解，既**不避俗**，更**不媚俗**。
 
 1. **確真性**（verity）。以正確為先。
   * 例如做遊戲名稱的《The Last of Us》,不宜翻譯為《美國末日》。
