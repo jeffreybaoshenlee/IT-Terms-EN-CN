@@ -27,7 +27,7 @@ English to Chinese Translation Table for Terminologies in Information Technology
 考評標準
 ========
 
-總則：尊重**「習慣」**，但**決不「惟習慣論」**。**秉持學術立場**，既**不媚俗**，也**不避俗**。
+總則：尊重**「習慣」**，但**決不「惟習慣論」**。**秉持學術立場**，敢於提出獨到見解，既**不避俗**，更**不媚俗**。
 
 1. **確真性**（verity）。以正確為先。
   * 例如做遊戲名稱的《The Last of Us》,不宜翻譯為《美國末日》。
