@@ -1,9 +1,9 @@
-IT-Term-Ref-Table
-=================
+IT-Terms-EN-CN
+=============
 
-English to Chinese Translation Table for IT Terminologies
+English to Chinese Translation Table for Terminologies in Information Technology (IT) and Computer Science
 
-IT術語中英文對照表
+計算機術語及IT術語中英文對照表
 
 項目宗旨
 =========
@@ -93,6 +93,10 @@ IT術語中英文對照表
 
 管理人員簡介
 ============
+
+社區共用名：ITEC　（該詞是項目名稱**I**T-**T**erms-**E**N-**C**N的縮寫）
+
+成員介紹
 
 [jeffreybaoshenlee](https://github.com/jeffreybaoshenlee)
 
