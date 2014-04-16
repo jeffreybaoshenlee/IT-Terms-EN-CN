@@ -50,7 +50,7 @@ English to Chinese Translation Table for Terminologies in Information Technology
 
 總則：整個對照表分為28卷（volume），「A卷」至「Z卷」分別收錄首字母為「A/a」至首字母為「Z/z」的各個術語，「Number卷」收錄開頭為阿拉伯數字0至9的術語，「Symbol卷」收錄開頭為字符的術語。
 
-每個具體詞條的格式為：
+每個具體詞條的格式如下所示，其中**「英文」**和**「本社區建議譯法」**為必填項，其餘選填：
 
 ##單詞或短語
 
