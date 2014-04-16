@@ -32,7 +32,7 @@ IT術語中英文對照表
 管理人員簡介
 ============
 
-jeffreybaoshenlee:
+jeffreybaoshenlee
 
 * 網名　愛飛翔
 * 職業　全職書生
