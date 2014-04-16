@@ -27,7 +27,7 @@ English to Chinese Translation Table for Terminologies in Information Technology
 考評標準
 ========
 
-總則：尊重**「習慣」**，但**決不「惟習慣論」**。
+總則：尊重**「習慣」**，但**決不「惟習慣論」**。**秉持學術立場**，既**不媚俗**，也**不避俗**。
 
 1. **確真性**（verity）。以正確為先。
   * 例如做遊戲名稱的《The Last of Us》,不宜翻譯為《美國末日》。
@@ -38,7 +38,7 @@ English to Chinese Translation Table for Terminologies in Information Technology
   * 再如program與procedure，都是「程序」，如何區隔？
 4. **同構性**（isomorphism）。即符合漢語構詞法。
   * 例如bit、byte、word三詞在頻繁出現時，建議譯為「位元」、「字節」、「字組」。三者均爲偏正式構詞法，且均爲兩個字。另外，從「元」到「節」再到「組」，有鮮明的遞進關係，符合「連貫性」原則，同時又能與「位置」、「數位」等詞相區隔，還符合「區隔性」原則。
-5. **對應性**(correspondence)。譯文語法結構應和原文儘量相似，不宜隨便增減字詞。
+5. **對應性**（correspondence）。譯文語法結構應和原文儘量相似，不宜隨便增減字詞。
   * 例如「retain cycle」是偏正式名詞短語，中心詞是「cycle」，而現存中文譯法「循環引用」的中心詞卻是「引用」，原文的「retain」（保留）不見了，多出來了「引用」二字。
 6. **對等性**（parity）。兩個相似但有微妙區別的英文術語，應分別有對等的中文術語。
   * 例如「circular reference」與「循環引用」對等，而「retain cycle」則與「保留環」對等。不宜「拉郎配」，也就是說，不宜將「retain cycle」與「循環引用」視為對等。
