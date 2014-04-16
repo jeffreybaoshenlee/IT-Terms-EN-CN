@@ -43,7 +43,7 @@ English to Chinese Translation Table for Terminologies in Information Technology
 6. **對等性**（parity）。兩個相似但有微妙區別的英文術語，應分別有對等的中文術語。
   * 例如「circular reference」與「循環引用」對等，而「retain cycle」則與「保留環」對等。不宜「拉郎配」，也就是說，不宜將「retain cycle」與「循環引用」視為對等。
 
-註：對各原則所舉的例子由jeffreybaoshenlee撰寫，不代表他人意見。
+註：對各原則所舉的例子由jeffreybaoshenlee撰寫，不代表他人意見。（翔按：其中對第五、第六兩原則所舉的範例與大家的普遍認知不同，對此我深表抱歉，敬請大家原諒。目前依然堅持自己的看法，稍後也可能會修改。）
 
 詞條格式
 ========
