@@ -15,7 +15,7 @@ IT術語及計算機科學術語中英文對照表
 歡迎同好
 ========
 
-歡迎**對IT術語翻譯感興趣**的各路朋友加入，尤其歡迎**不畏物議**的「書呆子」、「老頑固」、「外星人」、「學究」、「深宅」、「死理性派」等怪咖和稀有物種。當然，走常規路線的**各位譯者**也多多益善。有志加入者請提交[Issue](https://github.com/jeffreybaoshenlee/IT-Terms-EN-CN/issues)或與Jeffrey（eastarstormlee@gmail.com）聯繫。
+歡迎**對IT術語感興趣**的**譯者**與**愛好者**加入，也特別歡迎**不畏物議**的「書呆子」、「老頑固」、「外星人」、「學究」、「深宅」、「死理性派」等怪咖和稀有物種。有志加入者請提交[Issue](https://github.com/jeffreybaoshenlee/IT-Terms-EN-CN/issues)或與Jeffrey（eastarstormlee@gmail.com）聯繫。
 
 編排形式
 =======
@@ -44,14 +44,14 @@ IT術語及計算機科學術語中英文對照表
 * 研究方向　　代碼質量、代碼閱讀、代碼評審、圖書評論
 * 電子郵箱　　eastarstormlee@gmail.com
 * 個人網站　　http://www.agilemobiledev.com/
-* 簡歷　　　　曾翻譯《NoSQL精粹》、《算法心得》（《Hacker's Delight》第2版）、《Effective Objective-C 2.0》、《Android遊戲開發實踐指南》、《HTML5 Canvas核心技術》等書
+* 自我介紹　　曾翻譯《NoSQL精粹》、《算法心得》（《Hacker's Delight》第2版）、《Effective Objective-C 2.0》、《Android遊戲開發實踐指南》、《HTML5 Canvas核心技術》等書
 
 [Jraghajiva](https://github.com/Jraghajiva)
 
 * 網名　　　　Asrakah Jraghajiva
 * 英文名　　　jiva
 * 研究方向　　二次元裡的動畫（Animation）、漫畫（Manga）、遊戲（Game）、科技（Technology），簡稱AMGT
-* 簡歷　　　　母星伊茲坦已經在四百地球年前的時候廢棄了，如今定居在伊茲坦3和伊茲坦a-6441上，本人曾經在伊茲坦帝國聯合政治學院進修，取得Orih學位，後任伊茲坦常駐圖盧茲t-0083殖民地的特派外交隨從，在聖歷776940年伊茲坦加入泛銀河聯盟的時候任聯盟常駐見習參事，後泛銀河聯盟與伊爾提蘭特聯盟組合為泛奧爾塔聯盟後繼續任常駐見習參事，之後被委任為泛奧爾塔聯盟常駐地球觀察特派專員（實際上就是墾荒監視團），代表泛奧爾塔聯盟對地球的行為進行監視及必要管制，同時對該星球生命體進行分析調查，首次到達地球是地球儒略歷的1872年。
+* 自我介紹　　母星伊茲坦已經在四百地球年前的時候廢棄了，如今定居在伊茲坦3和伊茲坦a-6441上，本人曾經在伊茲坦帝國聯合政治學院進修，取得Orih學位，後任伊茲坦常駐圖盧茲t-0083殖民地的特派外交隨從，在聖歷776940年伊茲坦加入泛銀河聯盟的時候任聯盟常駐見習參事，後泛銀河聯盟與伊爾提蘭特聯盟組合為泛奧爾塔聯盟後繼續任常駐見習參事，之後被委任為泛奧爾塔聯盟常駐地球觀察特派專員（實際上就是墾荒監視團），代表泛奧爾塔聯盟對地球的行為進行監視及必要管制，同時對該星球生命體進行分析調查，首次到達地球是地球儒略歷的1872年。
 
 [ayame9joe](https://github.com/ayame9joe)
 
@@ -61,7 +61,7 @@ IT術語及計算機科學術語中英文對照表
 * 研究方向　　遊戲敘事、遊戲情感體驗
 * 電子郵箱　　ayame9joe@gmail.com
 * 個人網站　　http://playfulthoughts.com/ayame9joe
-* 簡歷　　　　
+* 自我介紹　　（待補充）
 
 術語範圍
 ========
