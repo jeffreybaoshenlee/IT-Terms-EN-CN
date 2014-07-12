@@ -26,7 +26,7 @@
 
 ##cellular data service
 
-* 英文　　　　　　　**hcellular data service**
+* 英文　　　　　　　**cellular data service**
 * 建議譯法　　　　　**移動數據網絡；手機數據網絡；移動數據服務；手機數據服務**
 * 常見譯法　　　　　蜂窩數據服務
 * 提議人　　　　　　jeffreybaoshenlee
