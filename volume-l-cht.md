@@ -27,7 +27,6 @@
 ##lexical occurrence
 
 * 英文　　　　　　　**lexical occurrence**
-* 其他譯法　　　　　語法結構（出自[LYBB,ZXWY,JXNJGF2014]）
 * 建議譯法　　　　　**寫法**
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
