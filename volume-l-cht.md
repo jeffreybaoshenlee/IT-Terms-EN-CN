@@ -29,7 +29,7 @@
 * 英文　　　　　　　**lexical occurrence**
 * 建議譯法　　　　　**寫法**
 * 提議人　　　　　　jeffreybaoshenlee
-* 其他譯法　　　　　語法結構
+* 其他譯法　　　　　語法結構（出自[LYBB,ZXWY,JXNJGF2014]）
 * 示例
   * 出處　　　　　　[LYBB, JVMS2014]，2.11.8，第35頁，倒數第2段，第3行
 
