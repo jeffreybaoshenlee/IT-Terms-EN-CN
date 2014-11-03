@@ -37,7 +37,6 @@
 ##public design, private implementation
 
 * 英文　　　　　　　**public design, private implementation**
-* 常見譯法　　　　　公有設計、私有實現（出自[LYBB,ZXWY,JXNJGF2014]）
 * 建議譯法　　　　　**統一設計、各自實現**
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
