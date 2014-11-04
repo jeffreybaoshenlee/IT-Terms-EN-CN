@@ -32,7 +32,7 @@
 * 建議譯法　　　　　**完備的**；**能涵蓋每一種A的每一種B**
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
-　* 例句　　　　　　As a compromise, the Java Virtual Machine does not provide equal support for all data types: it is not completely orthogonal
-　* 譯文　　　　　　……這套指令集並不能完全涵蓋每一種數據類型的每一種操作
+  * 例句　　　　　　As a compromise, the Java Virtual Machine does not provide equal support for all data types: it is not completely orthogonal
+  * 譯文　　　　　　……這套指令集並不能完全涵蓋每一種數據類型的每一種操作
   * 出處　　　　　　[LYBB, JVMS2014]，3.2，第43頁，倒數第2段，第4行
 
