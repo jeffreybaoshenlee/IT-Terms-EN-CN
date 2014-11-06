@@ -22,7 +22,8 @@ IT術語及計算機科學術語中英文對照表
 
 總則：整個對照表分為28卷（volume），「A卷」至「Z卷」分別收錄首字母為「A/a」至首字母為「Z/z」的各個術語，「Number卷」收錄開頭為阿拉伯數字0至9的術語，「Symbol卷」收錄開頭為字符的術語。
 
-以字母x開頭的詞條均位於volume-x-cht.md文件中，餘可類推。
+以字母x開頭的術語均位於volume-x-cht.md文件中，餘可類推。
+對於包含術語的短語來說，其所歸屬的文件，應該由該短語關鍵詞的首字母確定。例如「a large complement of ...」短語的關鍵詞是complement，所以應該寫在volume-c-cht.md文件裡。
 
 參考書目及其引用簡稱請參閱bibliography.md文件。
 
