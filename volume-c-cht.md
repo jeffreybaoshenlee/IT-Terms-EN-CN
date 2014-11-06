@@ -35,3 +35,10 @@
   * 譯文　　　　　　（待補充）
   * 出處　　　　　　（待補充）
 
+##a large complement of ...
+
+* 英文　　　　　　　**a large complement of ...**
+* 建議譯法　　　　　**大量的……**（complement在這裏是「量」的意思）
+* 提議人　　　　　　jeffreybaoshenlee
+* 示例
+  * 出處　　　　　　[LYBB, JVMS2014]，3.11，第59頁，第2段，第1行
