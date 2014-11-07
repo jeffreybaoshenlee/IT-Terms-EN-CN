@@ -1,4 +1,4 @@
-IT-Terms-EN-CN
+IT-Terms-EN-CN　（簡稱ITEC）
 =============
 
 English to Chinese Translation Table for Terminologies in Information Technology (IT) and Computer Science (CS)
