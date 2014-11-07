@@ -8,7 +8,7 @@
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
   * 例句　　　　　　（待補充）（暫定用例：hack Java programming language）
-  * 譯文　　　　　　（待補充）（~~俺是玩Java的人~~）
+  * 譯文　　　　　　（待補充）（~~俺是玩Java的人~~）（~~俺是Java語言高級黑~~）
   * 出處　　　　　　（待補充）
 
 ##hack
