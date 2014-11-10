@@ -17,4 +17,4 @@
 
 * 英文　　　　　　　**（狹義的）superclass**
 * 常見譯法　　　　　**直接超類；父類**
-* 辨析　　　　　　　該詞特指某類型的直接上級。比如Java中的ArrayList直接繼承自AbstractList，而AbstractList又直接繼承自AbstractCollection，則AbstractList是ArrayList的直接超類（也就是狹義超類），而AbstractCollection則是ArrayList的間接超類。AbstractList、AbstractCollection及Object均可稱為ArrayList的廣義超類。
+* 辨析　　　　　　　該詞特指某類型的直接上級。比如Java中的`ArrayList`直接繼承自`AbstractList`，而`AbstractList`又直接繼承自`AbstractCollection`，則`AbstractList`是`ArrayList`的直接超類（也就是狹義超類），而`AbstractCollection`則是`ArrayList`的間接超類。`AbstractList`、`AbstractCollection`及`Object`均可稱為`ArrayList`的廣義超類。
