@@ -1,6 +1,6 @@
 #（此文檔擬總結開頭為S或s的英文術語）
 
-##specification （簡稱spec）
+##specification （簡稱 spec）
 
 * 英文　　　　　　　**specification**
 * 常見譯法　　　　　【1】規範書；規範【2】規格書；規格
