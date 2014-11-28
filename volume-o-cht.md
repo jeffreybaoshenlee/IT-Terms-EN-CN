@@ -14,7 +14,7 @@
 
 ##A is orthogonal to B
 * 英文　　　　　　　｛用來描述兩個科技概念之關係的句式｝**A is orthogonal to B**
-* 建議譯法　　　　　【1】**A與B無關**；**A不參與B**；**無法由A【判斷出B】（會不會發生/是否成立）**
+* 建議譯法　　　　　【1】**A與B無關**；**A不參與B**；**無法由A推斷出B（會不會發生/是否成立）**
 * 建議譯法　　　　　【2】**A與B互相獨立**；**A與B完全分離**
 * 提議人　　　　　　jeffreybaoshenlee
 * 註解　　　　　　　這兩個義項均可參考 http://dictionary.reference.com/browse/orthogonal 網頁的 orthogonal in Technology 部分。
@@ -22,5 +22,3 @@
   * 例句　　　　　　（針對第【1】義項）because it is orthogonal to overriding
   * 譯文　　　　　　因為無法據此推斷出是不是有```final```方法遭到覆蓋
   * 出處　　　　　　[LYBB, JVMS2014]，4.10.1.5，第185頁，第2段，第2行
-
-　　
