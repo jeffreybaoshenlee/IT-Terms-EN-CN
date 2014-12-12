@@ -13,3 +13,6 @@
 * 英文　　　　　　　**｛某格式｝X representation**
 * 建議譯法　　　　　**X（格式的）數據**
 * 提議人　　　　　　jeffreybaoshenlee
+* 示例
+  * 例句　　　　　　class file representation
+  * 譯文　　　　　　class文件數據；class文件格式的數據
