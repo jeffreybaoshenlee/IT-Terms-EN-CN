@@ -13,7 +13,7 @@
 
 ##A is assignment compatible with B
 * 英文　　　　　　　**A is assignment compatible with B**
-* 建議譯法　　　　　**A兼容B**；**A賦值兼容於B**；**A具備對B的賦值兼容性**
+* 建議譯法　　　　　**A兼容（於）B**；**A賦值兼容於B**；**A具備對B的賦值兼容性**
 * 提議人　　　　　　jeffreybaoshenlee
 * 註解　　　　　　　如果甲表達式的類型```A```可以通過賦值轉換操作，轉化成乙變量的類型```B```，那麼```A```類型就具備對```B```類型的賦值兼容性（A is assignment compatible with B）。例如通過```Object o= new Integer(1);```可知，```Integer```具備對```Object```的賦值兼容性，或者說```Integer```能夠兼容```Object```、```Integer```與```Object```相兼容。
 * 示例
