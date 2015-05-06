@@ -1,5 +1,7 @@
 #（此文檔擬總結開頭為D或d的英文術語）
 
+##developer advocate
+
 * 英文　　　　　　　**developer advocate**
 * 常見譯法　　　　　**開發者大使；開發人員後援**
 * 其它譯法　　　　　**開發者代言人；開發者協調人**
@@ -18,3 +20,4 @@
 * 參考資料　　　　　https://zh.wikipedia.org/wiki/標籤聯合
 * 示例
   * 出處　　　　　　【LYBB, JVMS2014】，4.7.4，第107頁，倒數第1段，第3行
+
