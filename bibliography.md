@@ -5,7 +5,9 @@
 * 出版社　　　　　　Addison-Wesley
 * 出版時間　　　　　2014年5月
 * 引用簡稱　　　　　【LYBB, JVMS2014】
-___
+
+<br />
+
 * 書名　　　　　　　《Effective Python》
 * 作者　　　　　　　Brett Slatkin
 * 出版社　　　　　　Addison-Wesley
