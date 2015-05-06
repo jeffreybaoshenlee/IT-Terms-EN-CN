@@ -6,7 +6,7 @@
 * 提議人　　　　　　jeffreybaoshenlee
 * 註解　　　　　　　參考資料裡給出了該職位的解釋
 * 參考資料　　　　　https://jefro.wordpress.com/2009/06/19/what-is-a-developers-advocate/
-* 討論帖　　　　　　#16
+* 討論帖　　　　　　https://github.com/jeffreybaoshenlee/IT-Terms-EN-CN/issues/16
 * 示例
   * 出處　　　　　　【Slatkin, EP2015】，本書讚譽，第i頁，第4段，第3行
 
