@@ -23,7 +23,7 @@
 ##handle
 * 英文　　　　　　　**handle**
 * 常見譯法　　　　　句柄；把手
-* 建議譯法　　　　　**標識符；控制符；操作標識**
+* 建議譯法　　　　　**標識符；操作標識**
 * 提議人　　　　　　jeffreybaoshenlee
 * 註解　　　　　　　handle其實是一種標識符或指針，用來指代開發者將要操作的資源。這個詞應不應該譯為句柄，尚有爭議。有時為了避免爭議，可以保留英文原樣
 * 參考資料　　　　　https://en.wikipedia.org/wiki/Handle_(computing)
