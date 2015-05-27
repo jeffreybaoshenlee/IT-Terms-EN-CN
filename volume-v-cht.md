@@ -11,7 +11,7 @@
 ##variable arguments
 
 * 英文　　　　　　　**variable arguments**
-* 建議譯法　　　　　**數量可變的參數；個數可變的參數；變長參數**
+* 建議譯法　　　　　**數量可變的參數；數量不定的參數；個數可變的參數；變長參數**
 * 　　　　　　　　　（其中的參數也可說成實參、實際參數或引數）
 * 提議人　　　　　　jeffreybaoshenlee
 * 註解　　　　　　　在某些語境中，variable arguments的含義類似於optional arguments（可選參數）。
