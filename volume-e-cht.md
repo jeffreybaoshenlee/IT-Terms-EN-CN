@@ -10,3 +10,10 @@
 * 示例
   * 出處　　　　　　【Slatkin, EP2015】，序.本書使用的約定，第xv頁，第2段，第7至8行
 
+##externalized API
+
+* 英文　　　　　　　**externalized API**
+* 建議譯法　　　　　**公佈出來的API；公佈給外界使用的API**
+* 提議人　　　　　　jeffreybaoshenlee
+* 示例
+  * 出處　　　　　　【Slatkin, EP2015】，3.Item 22，第59頁，第1段，第2條，第2至3行
