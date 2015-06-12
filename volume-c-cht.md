@@ -1,5 +1,15 @@
 #（此文檔擬總結開頭為C或c的英文術語）
 
+##call site
+
+* 英文　　　　　　　**call site**
+* 建議譯法　　　　　**【1】｛尤其指虛擬機的｝調用點【2】調用代碼**
+* 提議人　　　　　　jeffreybaoshenlee
+* 評註　　　　　　　具體含義要根據文意來判斷。比方說，下面例句中的call site，就是第2個意思。
+* 示例
+  * 例句　　　　　　refactor a class and all call sites
+  * 出處　　　　　　【Slatkin, EP2015】，第4章，Item 30，第95頁，第4段，第3條，第1行
+
 ##cellular data service
 
 * 英文　　　　　　　**cellular data service**
