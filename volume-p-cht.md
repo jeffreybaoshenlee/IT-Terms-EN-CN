@@ -11,6 +11,13 @@
 * 示例
   * 出處　　　　　　[Slatkin, EP2015]，序.本書涵蓋的內容，第xiv頁，第5段，標題
 
+##preemptive multithreading
+
+* 英文　　　　　　　**preemptive multithreading**
+* 建議譯法　　　　　**佔先式多線程切換；搶先式多線程切換**
+* 提議人　　　　　　jeffreybaoshenlee
+* 示例
+  * 出處　　　　　　【Slatkin, EP2015】，第5章，Item 37，第122頁，第2段，第2行	
 
 ##｛描述編程語法的｝a set of production
 
