@@ -6,7 +6,7 @@
 * 提議人　　　　　　jeffreybaoshenlee
 * 註解　　　　　　　具體含義應根據語境來推斷。
 * 示例
-  * 出處　　　　　　【Slatkin, EP2015】，第8章Item54，第201頁，第2段，第5行
+  * 出處　　　　　　【Slatkin, EP2015】，第8章，Item54，第201頁，第2段，第5行
 
 ##orthogonal
 
