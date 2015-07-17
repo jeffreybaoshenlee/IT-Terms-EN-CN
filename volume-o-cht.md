@@ -1,5 +1,13 @@
 #（此文檔擬總結開頭為O或o的英文術語）
 
+##｛網站的｝operations team
+* 英文　　　　　　　｛網站的｝operations team
+* 常見譯法　　　　　【1】運維團隊【2】運營團隊；營運團隊
+* 提議人　　　　　　jeffreybaoshenlee
+* 註解　　　　　　　具體含義應根據語境來推斷。
+* 示例
+  * 出處　　　　　　【Slatkin, EP2015】，第8章Item54，第201頁，第2段，第5行
+
 ##orthogonal
 
 * 英文　　　　　　　｛「定語——中心語」式偏正短語裡的形容詞｝**orthogonal**
