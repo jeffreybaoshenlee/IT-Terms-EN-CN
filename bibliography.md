@@ -13,3 +13,11 @@
 * 出版社　　　　　　Addison-Wesley
 * 出版時間　　　　　2015年3月
 * 引用簡稱　　　　　【Slatkin, EP2015】
+
+<br />
+
+* 書名　　　　　　　《NoSQL for Mere Mortals》
+* 作者　　　　　　　Dan Sullivan
+* 出版社　　　　　　Addison-Wesley
+* 出版時間　　　　　2015年4月
+* 引用簡稱　　　　　【Sullivan, NFMM2015】
