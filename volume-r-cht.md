@@ -1,5 +1,12 @@
 #（此文檔擬總結開頭為R或r的英文術語）
 
+##read-your-writes consistency
+* 英文　　　　　　　**read-your-writes consistency**
+* 建議譯法　　　　　**讀己之所寫的一致性；所讀同於所寫的一致性；所寫即所讀的一致性；照原樣讀出所寫內容的一致性**
+* 提議人　　　　　　jeffreybaoshenlee
+* 示例
+  * 出處　　　　　　【Sullivan, NFMM2015】，2.2.3，第57頁，第3段，第2項
+
 ##｛某規範｝X representation
 * 英文　　　　　　　**｛某規範｝X representation**
 * 建議譯法　　　　　**X（表示）形式**
