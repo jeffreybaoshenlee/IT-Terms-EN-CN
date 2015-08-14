@@ -6,6 +6,14 @@
 * 常見譯法　　　　　模式；結構；架構；綱要；概要；大綱
 * 註解　　　　　　　為了與pattern（設計與使用方面的模式）及mode（狀態與運作方面的模式）相區隔，有時可以改用其它詞語來靈活翻譯。
 
+##｛數據庫用語｝soft state
+
+* 英文　　　　　　　**soft state**
+* 常見譯法　　　　　軟狀態；柔性狀態
+* 註解　　　　　　　大意是指不刷就會過期的信息。參見：https://en.wikipedia.org/wiki/Soft_state
+* 示例
+  * 出處　　　　　　【Sullivan, NFMM2015】，2.2.2，第56頁，第2段，第1行
+
 ##specification （簡稱 spec）
 
 * 英文　　　　　　　**specification**
