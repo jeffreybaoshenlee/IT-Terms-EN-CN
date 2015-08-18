@@ -7,10 +7,11 @@
 * 示例
   * 出處　　　　　　【Sullivan, NFMM2015】，2.2.3，第57頁，第3段，第2項
 
-##｛某規範｝X representation
+##｛某規範、某編碼格式｝X representation
 * 英文　　　　　　　**｛某規範｝X representation**
 * 建議譯法　　　　　**X（表示）形式**
 * 提議人　　　　　　jeffreybaoshenlee
+* 註解　　　　　　　例如，binary representation可譯為「二進制形式」。
 * 示例
   * 例句　　　　　　UTF-16 representation
   * 譯文　　　　　　UTF-16形式；UTF-16表示形式
