@@ -17,7 +17,7 @@
   * 譯文　　　　　　UTF-16形式；UTF-16表示形式
   * 出處　　　　　　[LYBB, JVMS2014]，4.4.7，第87頁，第2段，第2行
 
-##｛某格式｝X representation
+##｛某存儲格式｝X representation
 * 英文　　　　　　　**｛某格式｝X representation**
 * 建議譯法　　　　　**X（格式的）數據**
 * 提議人　　　　　　jeffreybaoshenlee
