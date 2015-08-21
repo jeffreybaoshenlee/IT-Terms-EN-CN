@@ -10,6 +10,16 @@
 * 示例
   * 出處　　　　　　【Slatkin, EP2015】，第4章，Item 32，第100頁，標題
 
+##｛緩存算法用詞、形容詞｝Least Recently Used (LRU)
+
+* 英文　　　　　　　**Least Recently Used (LRU)**
+* 建議譯法　　　　　**最久未使用的；許久未使用的**
+* 註解　　　　　　　作為名詞時，可直接使用縮寫形式，稱為「LRU算法」或「最久未使用算法」。
+* 　　　　　　　　　與之相反的那個形容詞Most Recently Used，可譯為「最近剛用到的」。
+* 提議人　　　　　　jeffreybaoshenlee
+* 示例
+  * 出處　　　　　　【Sullivan, NFMM2015】，3.2.2，第94頁，圖3.6
+
 ##lexical occurrence
 
 * 英文　　　　　　　**lexical occurrence**
