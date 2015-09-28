@@ -6,6 +6,14 @@
 * 常見譯法　　　　　模式；結構；架構；綱要；概要；大綱
 * 註解　　　　　　　為了與pattern（設計與使用方面的模式）及mode（狀態與運作方面的模式）相區隔，有時可以改用其它詞語來靈活翻譯。
 
+##single point of failure
+* 英文　　　　　　　**single point of failure**
+* 常見譯法　　　　　故障單點；單一故障點；單點故障
+* 註解　　　　　　　故障單點是指那種因自身故障而導致整個系統故障的點。由故障單點所導致的這種故障，可稱為單點故障。宜根據文意靈活翻譯。
+* 參考資料　　　　　https://en.wikipedia.org/wiki/Single_point_of_failure
+* 示例
+  * 出處　　　　　　【Sullivan, NFMM2015】，9.3.1，第293頁，第5段，第4行
+
 ##｛數據庫用語｝soft state
 
 * 英文　　　　　　　**soft state**
