@@ -24,6 +24,7 @@
 * 英文　　　　　　　**｛形容數據結構或技術的｝probabilistic**
 * 建議譯法　　　　　**有一定出錯機率的；有一定概率會出錯的；有可能出現【誤判/誤算】的**
 * 註解　　　　　　　使用此類技術時，或許可以通過增加某些資源（如內存量或存儲數據所用的位元數量等）來降低出錯機率
+* 參考資料　　　　　https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
   * 出處　　　　　　【Sullivan, NFMM2015】，10.2.3.2，第320頁，第2段，第3到4行	
