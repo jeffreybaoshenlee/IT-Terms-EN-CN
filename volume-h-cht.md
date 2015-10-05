@@ -31,3 +31,10 @@
 * 示例
   * 出處　　　　　　【Slatkin, EP2015】，第1章，Item 3，第7頁，第2段，第1行
 
+##｛描述負載分佈情形的｝hotspotting ; hot spotting
+* 英文　　　　　　　**hotspotting ; hot spotting**
+* 建議譯法　　　　　負載聚集（現象）；將大量【負載/操作】分配給少量服務器的情形
+* 提議人　　　　　　jeffreybaoshenlee
+* 註解　　　　　　　具體含義待考。
+* 示例
+  * 出處　　　　　　【Sullivan, NFMM2015】，第11章，第1節，第332頁，第3段，第6項
