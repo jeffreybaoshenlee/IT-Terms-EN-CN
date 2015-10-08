@@ -6,6 +6,13 @@
 * 常見譯法　　　　　模式；結構；架構；綱要；概要；大綱
 * 註解　　　　　　　為了與pattern（設計與使用方面的模式）及mode（狀態與運作方面的模式）相區隔，有時可以改用其它詞語來靈活翻譯。
 
+##single point of access
+* 英文　　　　　　　**single point of access**
+* 常見譯法　　　　　單一訪問點；訪問單點
+* 註解　　　　　　　大概是指系統中可以由此訪問其全部信息的那個點。
+* 示例
+  * 出處　　　　　　【Sullivan, NFMM2015】，11.3.3，第356頁，第2段，第2至3行
+
 ##single point of failure
 * 英文　　　　　　　**single point of failure**
 * 常見譯法　　　　　故障單點；單一故障點；單點故障
