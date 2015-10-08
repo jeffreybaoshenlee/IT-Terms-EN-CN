@@ -1,5 +1,14 @@
 #（此文檔擬總結開頭為M或m的英文術語）
 
+##MapReduce
+
+* 英文　　　　　　　**MapReduce ; map reduce ; map-reduce**
+* 常見譯法　　　　　映射——歸納；映射——【推演/推導】；映射——化簡
+* 註解　　　　　　　若以兩詞首字母均大寫，且中間不加空格的形式出現，則可保留英文原樣不翻譯。
+* 參考資料　　　　　https://en.wikipedia.org/wiki/MapReduce 、 https://zh.wikipedia.org/wiki/MapReduce
+* 示例
+  * 出處　　　　　　【Sullivan, NFMM2015】，11.3.2.3，第354頁，第1段，第1項
+
 ##mask
 
 * 英文　　　　　　　**mask**
