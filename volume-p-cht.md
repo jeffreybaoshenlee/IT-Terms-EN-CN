@@ -47,6 +47,15 @@
   * 例句　　　　　　promote those interfaces
   * 譯文　　　　　　推廣那些接口
   * 出處　　　　　　[LYBB, JVMS2014]，2.13，第38頁，第2段，第5行
+  
+##｛技術圖表中的｝Provided Interface
+
+* 英文　　　　　　　**Provided Interface**
+* 建議譯法　　　　　**提供接口；供給的接口；（向外界）提供功能的接口**
+* 參考資料　　　　　https://stackoverflow.com/questions/23456112/what-is-the-difference-between-required-and-provided-interfaces
+* 提議人　　　　　　jeffreybaoshenlee
+* 示例
+  * 出處　　　　　　【CCS, SA2015】，4.4.3，第69頁，圖4.15
 
 ##public design, private implementation
 
