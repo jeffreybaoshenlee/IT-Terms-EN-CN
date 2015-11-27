@@ -24,3 +24,12 @@
 * 示例
   * 例句　　　　　　class file representation
   * 譯文　　　　　　class文件數據；class文件格式的數據
+
+##｛技術圖表中的｝Required Interface
+
+* 英文　　　　　　　**Required Interface**
+* 建議譯法　　　　　**需要接口；所需的接口；需要（使用其功能的那個）接口**
+* 參考資料　　　　　https://stackoverflow.com/questions/23456112/what-is-the-difference-between-required-and-provided-interfaces
+* 提議人　　　　　　jeffreybaoshenlee
+* 示例
+  * 出處　　　　　　【CCS, SA2015】，4.4.3，第69頁，圖4.15
