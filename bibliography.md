@@ -21,3 +21,11 @@
 * 出版社　　　　　　Addison-Wesley
 * 出版時間　　　　　2015年4月
 * 引用簡稱　　　　　【Sullivan, NFMM2015】
+
+<br />
+
+* 書名　　　　　　　《System Architecture》
+* 作者　　　　　　　Edward Crawley　Bruce Cameron　Daniel Selva
+* 出版社　　　　　　Pearson
+* 出版時間　　　　　2015年4月
+* 引用簡稱　　　　　【CCS, SA2015】
