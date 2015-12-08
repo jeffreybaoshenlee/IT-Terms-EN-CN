@@ -1,4 +1,12 @@
 #（此文檔擬總結開頭為O或o的英文術語）
+  
+##｛系統工程圖表用語｝object-process diagram (OPD)
+* 英文　　　　　　　｛系統工程圖表用語｝object-process diagram (OPD)
+* 常見譯法　　　　　對象過程圖
+* 提議人　　　　　　jeffreybaoshenlee
+* 參考資料　　　　　https://en.wikipedia.org/wiki/Object_process_methodology#Object_process_diagram
+* 示例
+  * 出處　　　　　　【CCS, SA2015】，章節問題.第5章，426頁，倒數第1段，第1行。
 
 ##open-headed arrow
 * 英文　　　　　　　open-headed arrow
