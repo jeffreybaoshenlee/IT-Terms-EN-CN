@@ -1,5 +1,15 @@
 #（此文檔擬總結開頭為O或o的英文術語）
 
+##open-headed arrow
+* 英文　　　　　　　open-headed arrow
+* 常見譯法　　　　　開尾式箭頭
+* 提議人　　　　　　jeffreybaoshenlee
+* 註解　　　　　　　具體含義和譯法存疑。似乎是尾端有些分岔的實心箭頭，與尾段尾端的實心箭頭（solid-headed）相對。這一說法請參考E. J. Lowe所著的《Forms of Thought: A Study in Philosophical Logic》一書第38頁第3段第3行，Cambridge University Press，2013年。另一種說法為：open-headed arrow是指尾部平齊的空心箭頭，參考：https://en.wikipedia.org/wiki/Arrow_(symbol)#Arrows_in_Unicode 。
+* 參考資料　　　　　【1】http://www.zftrans.com/favorite/vocabulary/2007-9/12/190507912190530140954.html
+* 　　　　　　　　　【2】http://www.taiwan921.lib.ntu.edu.tw/mypdf/drawing10.pdf
+* 示例
+  * 出處　　　　　　【CCS, SA2015】，5.5.4小節，104頁，第1段，第3行。
+
 ##｛網站的｝operations team
 * 英文　　　　　　　｛網站的｝operations team
 * 常見譯法　　　　　【1】運維團隊【2】運營團隊；營運團隊
