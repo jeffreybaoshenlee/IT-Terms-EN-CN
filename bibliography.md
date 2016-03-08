@@ -29,3 +29,11 @@
 * 出版社　　　　　　Pearson
 * 出版時間　　　　　2015年4月
 * 引用簡稱　　　　　【CCS, SA2015】
+
+<br />
+
+* 書名　　　　　　　《Practical Software Architecture》
+* 作者　　　　　　　Tilak Mitra
+* 出版社　　　　　　IBM Press
+* 出版時間　　　　　2015年12月
+* 引用簡稱　　　　　【Mitra, PSA2015】
