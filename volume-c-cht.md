@@ -1,5 +1,15 @@
 #（此文檔擬總結開頭為C或c的英文術語）
 
+##C-level executive
+
+* 英文　　　　　　　**C-level executive**
+* 建議譯法　　　　　**C級【管理者/高管】；首席管理者**
+* 提議人　　　　　　jeffreybaoshenlee
+* 評註　　　　　　　例如首席執行官（CEO）、首席技術官（CTO）等等，由於這些頭銜都以字母C開頭，因此稱為C級管理者。
+* 參考資料　　　　　http://searchcio.techtarget.com/definition/C-level
+* 示例
+  * 出處　　　　　　【Mitra, PSA2015】，序，第xviii頁，第2段，第5項，第1行
+
 ##call site
 
 * 英文　　　　　　　**call site**
