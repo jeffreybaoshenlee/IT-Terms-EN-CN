@@ -32,11 +32,12 @@
 * 語境　　　　　　　重點在於強調某套軟件設計方案對其中各個門類的涵蓋度，而不在於強調兩個因素之間沒有關聯（翔按：如果重點在於強調後一種意思，那我建議譯為「正交的」、「可分開對待的」、「各是各的」、「各管一攤的」、「職能方面沒有重疊的」）
 * 常見譯法　　　　　正交的
 * 建議譯法　　　　　**完備的**；**完全涵蓋的**；**能涵蓋每一種A的每一種B**
+* 註解　　　　　　　我並沒有否定「正交」這種譯法，只是補充了幾種替代譯法而已。例如編程語言所具備的Orthogonality，依然應該譯為正交性（參見： https://en.wikipedia.org/wiki/Orthogonality_(programming) ）；Orthogonal instruction set依然應該譯為正交指令集（參見： https://en.wikipedia.org/wiki/Orthogonal_instruction_set ）。
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
   * 例句　　　　　　As a compromise, the Java Virtual Machine does not provide equal support for all data types: it is not completely orthogonal
   * 譯文　　　　　　……這套指令集並不能完全涵蓋每一種數據類型的每一種操作
-  * 註解　　　　　　這句話暗含的意思是，有些指令無法涵蓋每一種數據類型（例如無法針對short、byte、int、double等類型全都各自提供一個版本）。比方說，if_cmp指令族就只提供了int版（if_icmp...)和引用版(if_acmp...)，而沒有為其它幾個類型提供對應的版本（例如沒有提供if_scmp、if_bcmp）。
+  * 註解　　　　　　這句話暗含的意思是，有些指令無法涵蓋每一種數據類型（例如無法針對short、byte、int、double等類型全都各自提供一個版本）。比方說，if_cmp指令族就只提供了int版（if_icmp...)和引用版(if_acmp...)，而沒有為其它幾個類型提供對應的版本（例如沒有提供double版的if_dcmp...）。
   * 出處　　　　　　[LYBB, JVMS2014]，3.2，第43頁，倒數第2段，第4行
 
 ##A is orthogonal to B
