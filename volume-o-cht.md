@@ -32,7 +32,7 @@
 * 語境　　　　　　　重點在於強調某套軟件設計方案對其中各個門類的涵蓋度，而不在於強調兩個因素之間沒有關聯（翔按：如果重點在於強調後一種意思，那我建議譯為「正交的」、「可分開對待的」、「各是各的」、「各管一攤的」、「職能方面沒有重疊的」）
 * 常見譯法　　　　　正交的
 * 建議譯法　　　　　**完備的**；**完全涵蓋的**；**能涵蓋每一種A的每一種B**
-* 註解　　　　　　　我並沒有否定「正交」這種譯法，只是補充了幾種替代譯法而已。例如編程語言所具備的Orthogonality，依然應該譯為正交性（參見： https://en.wikipedia.org/wiki/Orthogonality_(programming) ）；Orthogonal instruction set依然應該譯為正交指令集（參見： https://en.wikipedia.org/wiki/Orthogonal_instruction_set ）。
+* 註解　　　　　　　我並沒有否定「正交」這種譯法，只是補充了幾種備選的譯法而已。例如編程語言所具備的Orthogonality，依然應該譯為正交性（參見： https://en.wikipedia.org/wiki/Orthogonality_(programming) ）；Orthogonal instruction set依然應該譯為正交指令集（參見： https://en.wikipedia.org/wiki/Orthogonal_instruction_set ）。
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
   * 例句　　　　　　As a compromise, the Java Virtual Machine does not provide equal support for all data types: it is not completely orthogonal
