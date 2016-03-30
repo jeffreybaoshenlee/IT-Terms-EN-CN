@@ -29,19 +29,20 @@
 ##orthogonal
 
 * 英文　　　　　　　｛「定語——中心語」式偏正短語裡的形容詞｝**orthogonal**
-* 語境　　　　　　　用來形容某套軟件設計方案的詞彙，不是形容兩個因素之間互相無聯繫的那種含義（翔按：後一種含義我建議譯為「正交的」）
+* 語境　　　　　　　重點在於強調某套軟件設計方案對其中各個門類的涵蓋度，而不在於強調兩個因素之間沒有關聯（翔按：如果重點在於強調後一種意思，那我建議譯為「正交的」、「可分開對待的」、「各是各的」、「各管一攤的」、「職能方面沒有重疊的」）
 * 常見譯法　　　　　正交的
-* 建議譯法　　　　　**完備的**；**能涵蓋每一種A的每一種B**
+* 建議譯法　　　　　**完備的**；**完全涵蓋的**；**能涵蓋每一種A的每一種B**
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
   * 例句　　　　　　As a compromise, the Java Virtual Machine does not provide equal support for all data types: it is not completely orthogonal
   * 譯文　　　　　　……這套指令集並不能完全涵蓋每一種數據類型的每一種操作
+  * 註解　　　　　　這句話暗含的意思是，有些指令無法涵蓋每一種數據類型（例如無法針對short、byte、int、double等類型全都各自提供一個版本）。比方說，if_cmp指令族就只提供了int版（if_icmp...)和引用版(if_acmp...)，而沒有為其它幾個類型提供對應的版本（例如沒有提供if_scmp、if_bcmp）。
   * 出處　　　　　　[LYBB, JVMS2014]，3.2，第43頁，倒數第2段，第4行
 
 ##A is orthogonal to B
 * 英文　　　　　　　｛用來描述兩個科技概念之關係的句式｝**A is orthogonal to B**
 * 建議譯法　　　　　【1】**A與B無關**；**A不參與B**；**無法由A推斷出B（會不會發生/是否成立）**
-* 建議譯法　　　　　【2】**A與B互相獨立**；**A與B完全分離**
+* 建議譯法　　　　　【2】**A與B互相獨立**；**A與B完全分離**；**A與B可區分對待**；**A與B可分開對待**
 * 提議人　　　　　　jeffreybaoshenlee
 * 註解　　　　　　　這兩個義項均可參考 http://dictionary.reference.com/browse/orthogonal 網頁的 orthogonal in Technology 部分。
 * 示例
