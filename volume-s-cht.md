@@ -1,10 +1,10 @@
 #（此文檔擬總結開頭為S或s的英文術語）
 
-##｛數據庫用語｝scalability
+##scalability
 
 * 英文　　　　　　　**scalability**
 * 常見譯法　　　　　【1】可縮放性；可伸縮性【2】可擴展性
-* 辨析　　　　　　　同時表示縮減和擴張這兩種含義的scalability，應該酌情將其譯為可伸縮性或可縮放性，而對於單純表示擴張的scalability來說，則應將其譯為可擴展性。後面這一種用法，其實相當於expandability或expansionability。
+* 辨析　　　　　　　**同時表示縮減和擴張**這兩種含義的scalability，應該酌情將其譯為可伸縮性或可縮放性，而對於**單純表示**擴張的scalability來說，則應將其譯為可擴展性。第二種用法，其實相當於expandability、expansionability或extensibility（可延展性；可擴充性）。另外，如果該詞與上述三詞之一相並列，那麼為了**避免歧義**，可以把scalability酌情譯為可伸縮性、可縮放性。
 * 註解　　　　　　　「可」字，也可以改為「易」。
 
 ##｛數據庫用語｝schema
