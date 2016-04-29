@@ -33,3 +33,10 @@
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
   * 出處　　　　　　【CCS, SA2015】，4.4.3，第69頁，圖4.15
+
+##｛軟件或系統從故障之中恢復或應對故障的能力｝resilience 
+
+* 英文　　　　　　　**resilience**
+* 建議譯法　　　　　**恢復能力；復原能力；故障應對力；彈力**
+* 參考資料　　　　　https://en.wiktionary.org/wiki/resilience ，尤其注意名詞第3義項。
+* 提議人　　　　　　jeffreybaoshenlee
