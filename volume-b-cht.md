@@ -1,5 +1,13 @@
 #（此文檔擬總結開頭為B或b的英文術語）
 
+## BDUF ( Big Design Up Front )
+
+* 英文　　　　　　　**BDUF ( Big Design Up Front )**
+* 常見譯法　　　　　**預先做大量設計；一攬子設計**
+* 建議譯法　　　　　**大設計先行**
+* 提議人　　　　　　jeffreybaoshenlee
+* 參考資料　　　　　https://en.wikipedia.org/wiki/Big_Design_Up_Front
+
 ##｛數據結構｝binary safe string ; binary-safe string
 
 * 英文　　　　　　　**binary safe string ; binary-safe string**
@@ -16,4 +24,3 @@
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
   * 出處　　　　　　[LYBB, JVMS2014]，3.5，第49頁，第1段，第2行
-
