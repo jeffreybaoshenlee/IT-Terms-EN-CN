@@ -14,7 +14,7 @@
 * 常見譯法　　　　　**基準測試**
 * 建議譯法　　　　　**性能評估；性能評分；｛俗稱｝跑分**
 * 提議人　　　　　　jeffreybaoshenlee
-* 參考資料　　　　　https://en.wiktionary.org/wiki/benchmark#Noun，https://en.wikipedia.org/wiki/Benchmark_(computing)
+* 參考資料　　　　　https://en.wiktionary.org/wiki/benchmark#Noun ， https://en.wikipedia.org/wiki/Benchmark_(computing)
 * 示例
   * 出處　　　　　　【Britton, DR2015】，10，第243頁，第2段，第6行
 
