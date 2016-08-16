@@ -37,3 +37,11 @@
 * 出版社　　　　　　IBM Press
 * 出版時間　　　　　2015年12月
 * 引用簡稱　　　　　【Mitra, PSA2015】
+
+<br />
+
+* 書名　　　　　　　《Designing the Requirements》
+* 作者　　　　　　　Chris Britton
+* 出版社　　　　　　Addison-Wesley
+* 出版時間　　　　　2015年10月
+* 引用簡稱　　　　　【Britton, DR2015】
