@@ -18,7 +18,7 @@
 * 示例
   * 出處　　　　　　【Britton, DR2015】，10，第243頁，第2段，第6行
 
-##｛數據結構｝binary safe string ; binary-safe string
+## ｛數據結構｝binary safe string ; binary-safe string
 
 * 英文　　　　　　　**binary safe string ; binary-safe string**
 * 建議譯法　　　　　**能夠【表達/合理容納】各種內容的二進制字符串**
@@ -27,10 +27,17 @@
 * 示例
   * 出處　　　　　　【Sullivan, NFMM2015】，5.1.4，第149頁，第4段，第1項，第1行
 
-##branch
+## branch
 
 * 英文　　　　　　　**｛不及物動詞｝branch**
 * 建議譯法　　　　　**轉入分支**；**跳轉**
 * 提議人　　　　　　jeffreybaoshenlee
 * 示例
   * 出處　　　　　　[LYBB, JVMS2014]，3.5，第49頁，第1段，第2行
+
+## bug
+
+* 英文　　　　　　　**bug**
+* 建議譯法　　　　　**bug**；**程序缺陷**；**編程錯誤**
+* 提議人　　　　　　jeffreybaoshenlee
+* 參考資料　　　　　https://www.zhihu.com/question/483450085/answer/2131910494
