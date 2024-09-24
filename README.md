@@ -15,7 +15,7 @@ IT術語及計算機科學術語中英文對照表
 歡迎同好
 ========
 
-歡迎**對IT術語感興趣**的**譯者**與**愛好者**加入，也特別歡迎**不畏物議**的「書呆子」、「老頑固」、「外星人」、「學究」、「深宅」、「死理性派」等怪咖和稀有物種。有志加入者請提交[Issue](https://github.com/jeffreybaoshenlee/IT-Terms-EN-CN/issues)或與Jeffrey（eastarstormlee@gmail.com）聯繫。
+歡迎**對IT術語感興趣**的**譯者**與**愛好者**加入，也特別歡迎**不畏物議**的「書呆子」、「老頑固」、「外星人」、「學究」、「深宅」、「死理性派」等怪咖和稀有物種。有志加入者請提交[Issue](https://github.com/jeffreybaoshenlee/IT-Terms-EN-CN/issues)。
 
 編排形式
 =======
@@ -46,8 +46,6 @@ IT術語及計算機科學術語中英文對照表
 * 英文名　　　Jeffrey LEE
 * 職業　　　　書生
 * 研究方向　　代碼質量、代碼閱讀、代碼評審、圖書評論
-* 電子郵箱　　eastarstormlee@gmail.com
-* 個人網站　　http://www.agilemobiledev.com/
 * 自我介紹　　曾翻譯《NoSQL精粹》、《算法心得》（《Hacker's Delight》第2版）、《Effective Objective-C 2.0》、《Android遊戲開發實踐指南》、《HTML5 Canvas核心技術》等書
 
 [Jraghajiva](https://github.com/Jraghajiva)
@@ -63,8 +61,6 @@ IT術語及計算機科學術語中英文對照表
 * 英文名　　　
 * 職業　　　　遊戲設計師
 * 研究方向　　遊戲敘事、遊戲情感體驗
-* 電子郵箱　　ayame9joe@gmail.com
-* 個人網站　　http://playfulthoughts.com/ayame9joe
 * 自我介紹　　（待補充）
 
 術語範圍
